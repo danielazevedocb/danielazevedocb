@@ -14,7 +14,7 @@
 
 <br/>
 
-Apaixonado por tecnologia! 🤓 Estou estudando Frameworks para automatizar teste End to End (E2E), entrega contínua (CI) e deploy contínuo (CD).<br/>
+Apaixonado por tecnologia! 🤓 Estou estudando API, SOLID e TDD.<br/>
 <br/>
 
 ## Tecnologia que eu uso no meu dia:
